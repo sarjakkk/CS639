@@ -1,5 +1,5 @@
-# Codelabs for Material Components for Android (MDC-Android)
+# Sarjakkumar_MDC102
 
-[Material Components for Android](https://material.io/components/android/) are modular and customizable UI
-components that implement Material Design. This repo houses the source for the [Building Beautiful
-Apps Faster](https://codelabs.developers.google.com/codelabs/mdc-android/index.html) codelab.
+This is Assignment for Mobile Application Development class by Prof christelle Scharff
+
+In this Project I Add a top app bar, Add a card and Create a grid of cards.

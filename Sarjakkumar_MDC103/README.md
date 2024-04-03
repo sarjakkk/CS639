@@ -1,3 +1,5 @@
-# MDC-103 for Material Components for Android (Java)
+# Sarjakkumar_MDC103
 
-Contains starter code structure for the MDC-103 Java codelab.
+This is Assignment for Mobile Application Development class by Prof christelle Scharff
+
+In this Project I change the colors, Modify typography and label styles, Adjust elevation, Change the layout and Try another theme.
